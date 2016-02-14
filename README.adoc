@@ -1,6 +1,6 @@
 = GitHub Categoric
 
-images::images/cover.png[]
+image::images/cover.png[]
 
 **A Chrome Extension that categorizes your GitHub notifications as "Pull Request", "Issues" and "Misc" per repository you watch.**
 
