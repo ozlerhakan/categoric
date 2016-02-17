@@ -2,7 +2,9 @@
 
 image::images/cover.png[]
 
-A Chrome Extension that categorizes your GitHub notifications as "Pull Requests", "Issues" and "Misc" per repository you watch. If you have a bunch of unread GitHub notifications and struggle to find your what you look for among them,  this extension can help you by categorizing single-page notifications per repo. This tool tries to make your unread notifications more tidy. However, we will see whether it is helpful or not.
+---
+
+A Chrome Extension that categorizes your GitHub notifications as "Pull Requests", "Issues" and "Misc" per repository you watch. If you have a bunch of unread GitHub notifications and struggle to find what you look for among them, this extension can help you by categorizing single-page notifications per repo. This tool tries to make your unread notifications more tidy. However, we will see whether it is helpful or not.
 
 == Usage
 
