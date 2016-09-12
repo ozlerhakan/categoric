@@ -5,7 +5,7 @@ init();
 var defaulList;
 
 function init() {
-    var target = document.querySelector('div.right');
+    var target = document.querySelector('div.float-right');
 
     var div = document.createElement('div');
     div.id = 'categoric_confirm';
