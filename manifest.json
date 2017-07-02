@@ -1,7 +1,7 @@
 {
   "name": "GitHub Categoric",
   "short_name": "categoric",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "manifest_version": 2,
   "description": "Categorize your unread notifications for you per repository",
   "homepage_url": "http://github.com/ozlerhakan/categoric",
@@ -9,6 +9,7 @@
   "content_scripts": [
     {
       "matches": ["https://github.com/*notifications*"],
+      "exclude_matches": [ "https://github.com/settings/notifications" ],
       "js": ["categoric.js"]
     }
   ]
